@@ -107,8 +107,9 @@
           <e p="IInteractable.cs" t="Include" />
           <e p="IPickable.cs" t="Include" />
           <e p="ISelectable.cs" t="Include" />
+          <e p="ItemReviewCanvas.cs" t="Include" />
           <e p="Player.cs" t="Include" />
-          <e p="ShelfCameraController.cs" t="Include" />
+          <e p="playerRayCast.cs" t="Include" />
           <e p="Shelve.cs" t="Include" />
           <e p="ShopItem.cs" t="Include" />
         </e>

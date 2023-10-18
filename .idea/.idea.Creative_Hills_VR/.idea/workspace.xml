@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playerRayCast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IPickable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@15.0.6/Runtime/UniversalRenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.7.0/InputSystem/Plugins/PlayerInput/InputValue.cs" root0="SKIP_HIGHLIGHTING" />
@@ -17,14 +18,16 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/StarterAssets/FirstPersonController/Scripts/BasicRigidBodyPush.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IInteractable.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ISelectable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IPickable.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ShopItem.cs" />
         <option value="$PROJECT_DIR$/Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ICameraViewChange.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Shelve.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ItemReviewCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/playerRayCast.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShopItem.cs" />
       </list>
     </option>
   </component>

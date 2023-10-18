@@ -42,18 +42,9 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "FocusToShelves",
+                    "name": "AddToBucket",
                     "type": "Button",
                     "id": "8b0ea012-fc8b-4c1f-a040-36e4b4d461b3",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                },
-                {
-                    "name": "UnFocusFromShelves",
-                    "type": "Button",
-                    "id": "11d0b53d-99d5-4db0-bb7b-2d70eb5882a6",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -240,22 +231,11 @@
                 {
                     "name": "",
                     "id": "19092956-f623-40a1-9401-d63688d0c651",
-                    "path": "<Keyboard>/k",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "FocusToShelves",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "3f3b5ea4-e472-4cb6-add4-ddec0037cdb9",
-                    "path": "<Keyboard>/j",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "UnFocusFromShelves",
+                    "action": "AddToBucket",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
