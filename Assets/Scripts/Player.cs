@@ -22,12 +22,12 @@ public class Player : MonoBehaviour
     private void Start()
     {
         PlayerRayCast.DetectionEvent += PlayerRayCastOnDetectionEvent;
-        _bucketList = new List<ShopItem>();
+        //_bucketList = new List<ShopItem>();
     }
 
     private bool _itemDetected;
     private ShopItem _item;
-    private List<ShopItem> _bucketList;
+    //private List<ShopItem> _bucketList;
 
     private void PlayerRayCastOnDetectionEvent(ShopItem item)
     {
@@ -50,10 +50,8 @@ public class Player : MonoBehaviour
         if (!_itemDetected || _item is null)
             return;
         Debug.Log("add to Bucket");
-        _bucketList.Add(_item);
-        _item.transform.SetParent(bucket);
-        _item.transform.localPosition = Vector3.zero;
-        _item.PickUp();
+        //_bucketList.Add(_item);
+        ShopCart.Instance.AddToCart(_item);
         _item = null;
     }
 }
