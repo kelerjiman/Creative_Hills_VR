@@ -24,11 +24,16 @@
         <option value="$PROJECT_DIR$/Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ICameraViewChange.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Shelve.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ItemReviewCanvas.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/playerRayCast.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ShopItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ShopCart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Materials/InventoryUi.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ItemProperties.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InventoryUi.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuestUiTick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShopCart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShopItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ItemReviewCanvas.cs" />
       </list>
     </option>
   </component>

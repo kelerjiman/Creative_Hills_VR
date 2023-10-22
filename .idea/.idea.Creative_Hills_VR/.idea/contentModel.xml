@@ -7,6 +7,7 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Databases" t="Include" />
         <e p="ExampleAssets" t="Include">
           <e p="Materials" t="Include" />
           <e p="Models" t="Include" />
@@ -27,6 +28,17 @@
             <e p="Wood" t="Include" />
           </e>
         </e>
+        <e p="Free Stylized Skybox" t="Include">
+          <e p="CubeMap" t="Include">
+            <e p="Materials" t="Include" />
+            <e p="Textures" t="Include" />
+          </e>
+          <e p="Panoramic" t="Include">
+            <e p="Materials" t="Include" />
+            <e p="Textures" t="Include" />
+          </e>
+          <e p="Readme.txt" t="Include" />
+        </e>
         <e p="Materials" t="Include" />
         <e p="Models" t="Include">
           <e p="Hands" t="Include">
@@ -43,6 +55,7 @@
             <e p="Materials" t="Include" />
           </e>
         </e>
+        <e p="Prefabs" t="Include" />
         <e p="Presets" t="Include">
           <e p="Defaults" t="Include" />
         </e>
@@ -105,12 +118,16 @@
         <e p="Scripts" t="Include">
           <e p="CameraController.cs" t="Include" />
           <e p="IInteractable.cs" t="Include" />
+          <e p="Inventory.cs" t="Include" />
+          <e p="InventoryUi.cs" t="Include" />
           <e p="IPickable.cs" t="Include" />
           <e p="ISelectable.cs" t="Include" />
+          <e p="ItemProperties.cs" t="Include" />
           <e p="ItemReviewCanvas.cs" t="Include" />
           <e p="Materials" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="playerRayCast.cs" t="Include" />
+          <e p="QuestUiTick.cs" t="Include" />
           <e p="Shelve.cs" t="Include" />
           <e p="ShopCart.cs" t="Include" />
           <e p="ShopItem.cs" t="Include" />

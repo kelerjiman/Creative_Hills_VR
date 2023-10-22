@@ -52,6 +52,7 @@ public class Player : MonoBehaviour
         Debug.Log("add to Bucket");
         //_bucketList.Add(_item);
         ShopCart.Instance.AddToCart(_item);
+        Inventory.Instance.AddItem(_item);
         _item = null;
     }
 }
